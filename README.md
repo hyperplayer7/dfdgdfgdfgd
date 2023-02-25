@@ -17,10 +17,14 @@
 ### Technologies Used
 - Git
 - Node.js v19.7.0
+- ejs
 
 ### Commands Used / Process
 - node src/server.js
 - add a .gitignore file
+- npm install request
+
+
 
 ### Project URL
 - https://urlsession-upload-backend-codebruh.onrender.com/
@@ -33,5 +37,7 @@
 - https://github.com/Ileriayo/markdown-badges
 
 ### Next Iteration
-- Make a json API containing data
-- Make app read data from the API
+- Make a json API containing data - DONE
+- Make app read data from the API - DONE
+- Refactor
+- Add styling
